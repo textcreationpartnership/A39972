@@ -1,0 +1,315 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Forgery detected and innocency vindicated being a faithful account of the seasonable discovery of an horrid and detectible slander raised on the Anabaptists of New-England, in the diabolical pamphlet entituled, Mr. Baxter baptized in blood, designing so maliciously the reproach and exposure of all under that denomination.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39972</idno>
+            <idno type="STC">Wing F1558</idno>
+            <idno type="STC">ESTC R30464</idno>
+            <idno type="EEBO-CITATION">11323759</idno>
+            <idno type="OCLC">ocm 11323759</idno>
+            <idno type="VID">47469</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39972)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47469)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1460:47)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Forgery detected and innocency vindicated being a faithful account of the seasonable discovery of an horrid and detectible slander raised on the Anabaptists of New-England, in the diabolical pamphlet entituled, Mr. Baxter baptized in blood, designing so maliciously the reproach and exposure of all under that denomination.</title>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.D. for Fr. Smith ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Baxter, Benjamin. --  Mr. Baxter baptized in blood.</term>
+               <term>Baptists --  Controversial literature.</term>
+               <term>Baptists --  New England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47469:1"/>
+            <pb facs="tcp:47469:1" rendition="simple:additions"/>
+            <p>Forgery Detected, AND Innocency Vindicated.</p>
+            <p>BEING A faithful Account of the ſeaſonable Diſcovery of an Horrid and Dete<g ref="char:EOLhyphen"/>ſtible Slander raiſed on the <hi>Ana<g ref="char:EOLhyphen"/>baptiſts</hi> of <hi>New-England,</hi> in that Diabolical Pamphlet, entituled, Mr. <hi>Baxter baptiz'd in Blood;</hi> de<g ref="char:EOLhyphen"/>ſigning ſo maliciouſly the <hi>Reproach</hi> and <hi>Expoſure</hi> of all under that De<g ref="char:EOLhyphen"/>nomination.</p>
+            <q>
+               <bibl>Mat. 11.12.</bibl>
+               <p>Bleſſed are ye when men ſhall Revile you, and Perſecute you, and ſhall ſay all manner of Evil againſt you falſly, &amp;c.</p>
+            </q>
+            <q>
+               <bibl>Pſal. 120.2, 3.</bibl>
+               <p>Deliver my ſoul, O Lord, from Lying lips, and from a Deceitful Tongue.</p>
+            </q>
+            <q>
+               <bibl>Pſal. 35.11.</bibl>
+               <p>They laid to my charge things that I knew not.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>J. D.</hi> for <hi>Fr. Smith</hi> at the Elephant and Caſtle in <hi>Cornhil,</hi> near the Royal Exchange, and at the ſame Sign firſt Shop without <hi>Temple-Bar,</hi> 1673.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:47469:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:47469:2"/>
+            <head>Forgery Detected, &amp;c.</head>
+            <p>IT hath been always the <hi>Malicious Practice</hi> of that grand <hi>Slanderer Satan</hi> and his <hi>Inſtruments,</hi> ſince the firſt times of <hi>Chriſtianity,</hi> when they could not reſiſt the Power of <hi>Religion,</hi> to defame the <hi>Perſons</hi> and <hi>Aſſemblies</hi> of all <hi>Chriſtians,</hi> with foul and hateful <hi>Crimes</hi> laid to their charge; putting them into Skins of Beaſts, that Dogs might devour them, as appears by the Apo<g ref="char:EOLhyphen"/>ligies of <hi>Tertullian,</hi> and other of the <hi>Ancients,</hi> who wrote in their behalf. By which it appears that thoſe <hi>Defamati<g ref="char:EOLhyphen"/>ons</hi> fixed no laſting blot upon Men and Meetings, un<g ref="char:EOLhyphen"/>leſs with ſome Raſh and very Credulous Perſons.</p>
+            <p>But this unparallel'd <hi>Slanderer</hi> hath hatcht a Forgery beyond all Story, not only under the ſpecious pretence of Piety (intitling God himſelf, his holy Word, and all that is ſacred therein) but ſet forth with the formali<g ref="char:EOLhyphen"/>ties of Names, Speeches, Actions, Time and Place; Or<g ref="char:EOLhyphen"/>derly &amp; moſt Pathetically diſcribing the moſt Execrable Murder that ever was known; Exceeding the Cruel<g ref="char:EOLhyphen"/>ties of the moſt <hi>Savage Heathen;</hi> And as his own words to the life expreſſeth it, <hi>ſuch a villany which the Myrmi<g ref="char:EOLhyphen"/>dons, and Scythians in the midſt of Barbariſm it ſelf never heard of,</hi> viz. of firſt <hi>Stripping</hi> and cruelly <hi>Whipping,</hi> then <hi>Unboweling</hi> and <hi>Fleying alive</hi> a Reverent Godly Miniſter in his own Houſe, in the midſt of the howling
+<pb n="4" facs="tcp:47469:3"/>Grones and Scrichings of his dear Relations lying bound before him; And this by <hi>Anabaptiſts,</hi> and that for no other provocation, but being worſted by him in Diſputation. And the better to create belief, this dread<g ref="char:EOLhyphen"/>ful Story muſt here be made publick by his pretended <hi>Mournful Brother,</hi> as a known Inhabitant in this City, and the <hi>real Stamp</hi> of Publick <hi>Allowance</hi> (ſuruptitiouſly obtained, to avow the truth thereof) put upon it.</p>
+            <p>That by ſo <hi>faining</hi> (yet credibly relating the <hi>Fiction</hi> of this unſpeakable <hi>Villany</hi> perpetrated in <hi>New-England</hi> by ſuch <hi>Anabaptiſts</hi> that never were) he might bring in<g ref="char:EOLhyphen"/>to <hi>Obloquy, Hatred, and Hazard,</hi> all of that name in other places, as acceſſary to a <hi>Murder</hi> done, which was never done.</p>
+            <p>And may it not be truly ſaid that the Bounds of <hi>Chri<g ref="char:EOLhyphen"/>ſtian Profeſſion</hi> are not wide enough to afford us an <hi>Ex<g ref="char:EOLhyphen"/>ample</hi> parallel to the <hi>prodigious</hi> Malice of this <hi>lying De<g ref="char:EOLhyphen"/>famer,</hi> pretending this horrid Fact as done by <hi>Anabap<g ref="char:EOLhyphen"/>tiſts,</hi> that he might the better expoſe the whole Pro<g ref="char:EOLhyphen"/>feſſion of them in all Parts, though never ſo Innocent, to the Hatred and Rage of the People in all places againſt them; the whole deſign of the <hi>Pamphlet</hi> being no o<g ref="char:EOLhyphen"/>ther than to put them into <hi>Sambenita's,</hi> that is, painting them like Devils, both in corrupt <hi>Doctrines,</hi> and wicked Converſations, that he might render them the more odi<g ref="char:EOLhyphen"/>ous and obnoxious throughout the World; concluding it in theſe words, <hi>viz.</hi> I have <hi>penn'd and publiſhed this Narrative in perpetuam rei memoriam,</hi> that the world may ſee the Spirit and Temper of theſe Men, and that it may ſtand as an <hi>Eternal Memorial</hi> of their <hi>Cruelty</hi> and <hi>Hatred</hi> to all <hi>Orthodox Miniſters.</hi>
+            </p>
+            <p>But thanks be to the God of Truth and Righteouſ<g ref="char:EOLhyphen"/>neſs,
+<pb n="5" facs="tcp:47469:3"/>who hath timouſly and ſeaſonably diſcovered ſo horrible a <hi>Slander</hi> and <hi>Impoſture,</hi> by the arrival of a Ship which came from <hi>New-England,</hi> above twenty dayes ſince this Murder was ſaid to be committed; the <hi>Maſter</hi> of which Ship, and a <hi>Merchant</hi> living at <hi>Boſton</hi> in <hi>New-England,</hi> the place where this Fact is ſaid to have been acted, teſtifying upon Oath that they knew of no ſuch <hi>Fact,</hi> no ſuch Perſons, either <hi>Murdering</hi> or <hi>Murdered;</hi> Nor any <hi>Cauſes</hi> or <hi>Circumſtances,</hi> of any ſuch deed done, in the place from whence they came, or in the whole <hi>Plantation</hi> of <hi>New-England;</hi> and that they hold it for a meer <hi>Fable</hi> and abſurd <hi>Fiction,</hi> as appeareth by the <hi>Affidavit</hi> it ſelf before the Lord Mayor, hereto annex<g ref="char:EOLhyphen"/>ed, <hi>viz.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="affidavit">
+                        <head>The <hi>Affidavits</hi> of the two <hi>New-England</hi> Men.</head>
+                        <p>
+                           <hi>RICHARD MARTIN,</hi> Maſter of the good Ship the <hi>Bloſſom</hi> of <hi>Boſton,</hi> of New-England, Merchant; and <hi>HENRY MOUNTFORT</hi> of <hi>Boſton</hi> aforeſaid, Merchant, make Oath, That on the 26th Day of February laſt paſt, they theſe Deponants ſet ſaile from <hi>Boſton</hi> a<g ref="char:EOLhyphen"/>foreſaid, for the <hi>Port of London;</hi> and theſe Deponants alſo ſay, and affirm, that they the ſaid Deponants for di<g ref="char:EOLhyphen"/>verſe Years laſt paſt have had their conſtant Reſidence and Aboad in or near <hi>Boſton,</hi> aforeſaid; But theſe Deponants and either of them for himſelf ſaith, that they never heard of or knew any Miniſter called or known by the name of <hi>JOSIAH BAXTER,</hi> nor was there, to theſe Deponants Knowledge or Belief, any Diſpute or Controverſie what<g ref="char:EOLhyphen"/>ſoever between the ſaid <hi>BAXTER, and the ANABAP<g ref="char:EOLhyphen"/>TISTS</hi> in <hi>New-England,</hi> of or concerning any Point
+<pb n="6" facs="tcp:47469:4"/>of Religion: Neither was there any Report at <hi>Boſton</hi> aforeſaid, or any other Place in <hi>New-England,</hi> of or con<g ref="char:EOLhyphen"/>cerning any Murder pretended to have been committed upon the ſaid <hi>BAXTER,</hi> or any other Perſon or Perſons what<g ref="char:EOLhyphen"/>ſoever by any <hi>ANABAPTISTS</hi> in <hi>New-England.</hi> And theſe Deponants do verily believe that the late Book intitu<g ref="char:EOLhyphen"/>led <hi>Mr. BAXTER baptized in Blood,</hi> is an abſolute <hi>Pamphlet,</hi> and a very great Falſhood, for that theſe Deponants were reſiding at <hi>Boſton</hi> aforeſaid <hi>two and twenty Dayes</hi> after the ſaid Murder (in the ſaid Pam<g ref="char:EOLhyphen"/>phlet mentioned) is pretended to have been committed.</p>
+                        <closer>
+                           <dateline>
+                              <date>21 May 1673.</date> Ambo jurat. ſuer. coram me,</dateline>
+                           <signed>
+                              <list>
+                                 <item>RICHARD MARTIN.</item>
+                                 <item>HENRY MOUNTFORT.</item>
+                                 <item>RO. HANSON, <hi>Mayor.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Hereupon the Lord Mayor was pleaſed by his Offi<g ref="char:EOLhyphen"/>cers not only to interdict the vending the ſaid ſcanda<g ref="char:EOLhyphen"/>lous Pamphlet, but to ſeize it in the hands of the <hi>Haw<g ref="char:EOLhyphen"/>kers</hi> and <hi>Mercuries</hi> that ſold the ſame, and to ſuppreſs a ſecond Impreſſion thereof in the Preſs, committing alſo to Priſon ſeveral of the Publiſhers.</p>
+            <p>And whereas this barbarous Murder is ſaid to be pub<g ref="char:EOLhyphen"/>liſhed by <hi>Benjamin Baxter</hi> living in <hi>Fen-Church-ſtreet,</hi> the the mournful Brother of the ſaid <hi>Joſiah Baxter</hi> (falſly ſaid to be murdered) whom after all our diligent ſearch both in <hi>Fen-Church-ſtreet</hi> and elſewhere, we cannot find; as appears by the Teſtimony of the <hi>Churchwardens, Over<g ref="char:EOLhyphen"/>ſeers,</hi> and <hi>Beadles</hi> of <hi>Fen-Church-ſtreet</hi> here following, <hi>Viz.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="certificate">
+                        <pb n="7" facs="tcp:47469:4"/>
+                        <head>The Certificate of the Officers of the Ward.</head>
+                        <p>
+                           <hi>
+                              <hi>WHereas</hi> We have lately ſeen a Pamphlet, entituled,</hi> Mr. <hi>
+                              <hi>Baxter baptized in Blood,</hi> ſaid to be publiſhed by his mourn<g ref="char:EOLhyphen"/>ful Brother,</hi> Benjamin Baxter <hi>living in</hi> Fen-Church-ſtreet, London, <hi>We the Church-wardens, Overſeers and Beadles, do Certifie that there is no ſuch Man doth or hath within our memory lived in the two Wards of <hi>Aldgate</hi> and <hi>Longburne,</hi> in which</hi> Fen-Church-ſtreet <hi>is ſcituate. To the Truth of which Atteſtation we whoſe Names are under-written, have ſet our Hands this preſent 27th day of</hi> May, 1673.</p>
+                        <closer>
+                           <signed>
+                              <list>
+                                 <item>
+                                    <hi>Church-wardens.</hi>
+                                    <list>
+                                       <item>Thomas Baylie </item>
+                                       <item>Will. Wickins</item>
+                                       <item>Gordard Fletch</item>
+                                       <item>Thomas Fiſher</item>
+                                    </list>
+                                 </item>
+                                 <item>
+                                    <hi>Overſeers.</hi>
+                                    <list>
+                                       <item>Sam. Loveday</item>
+                                       <item>Ralph Almond</item>
+                                    </list>
+                                 </item>
+                                 <item>
+                                    <hi>Beadles.</hi>
+                                    <list>
+                                       <item>Will. Tyrlington</item>
+                                       <item>Thomas Smith</item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="8" facs="tcp:47469:5"/>
+            <p>It is true we find one <hi>William Baxter</hi> a Packer living in <hi>Fenchurch-Street,</hi> who declareth that he never had a Brother at <hi>Virginia</hi> or <hi>New-England;</hi> that he had never heard of this <hi>Joſiah Baxter,</hi> a Miniſter, nor knew any thing at all of the Story or its writing or being pub<g ref="char:EOLhyphen"/>liſhed.</p>
+            <p>We have by diligent ſearch, providentially found out the firſt Publiſhers of this lying Pamphlet, one of whom by name <hi>Seymer</hi> (a pretended Doctor of Phy<g ref="char:EOLhyphen"/>ſick) we have met with; the other who is known by the name of <hi>Lawrance Savil</hi> (yet through guilt hiding his head) we have not met with; who confeſſeth himſelf (by a Letter to one of us) drawn in and cheated by this imaginary and ſuppoſititious <hi>Benjamin Baxter:</hi> but how likely a ſtory he tells, and whether there is not good cauſe to conclude him the man himſelf, let the intelligent <hi>Reader</hi> judge by the peruſal thereof, hereunto added, <hi>viz.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>Lawrance Savil's <hi>Letter.</hi>
+                  </head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>THE Doctor (<hi>viz.</hi> Seymer <hi>aforeſaid</hi>) has urged and preſſed me by ſeveral Letters to give the world a full and ſatisfactory account of this buſineſs of Mr. <hi>Baxters</hi> Pamphlet: Mr. <hi>Benjamin Baxter,</hi> the Author of the late Pamphlet, about nine Weeks ſince inſinuated into my Ac<g ref="char:EOLhyphen"/>quaintanice, firſt in <hi>Grays-Inn</hi> Walks, and afterwards at a Coffee-houſe in Holborn; I met him often in the Walks, from thence we went to the Coffee houſes; I was well plea<g ref="char:EOLhyphen"/>ſed with his Company, becauſe hee ſeem'd an ingenious Per<g ref="char:EOLhyphen"/>ſon, a good Scholar, and an Orthodox Member of the
+<pb n="9" facs="tcp:47469:5"/>Church of England; He uſed alwayes to diſpute againſt the Anabaptiſts, and in Coffee-houſes to be ſo fierce in his In<g ref="char:EOLhyphen"/>vectives againſt that Party, that ſometimes he became ri<g ref="char:EOLhyphen"/>diculous to the company; he would often much comment on the encreaſe of that party. Afterwards he told me, he was compoſing a general Hiſtory of the firſt Original and Pro<g ref="char:EOLhyphen"/>greſs of the <hi>Anabaptiſts,</hi> with a full confutation of their Tenets; which he was confident would be a work very accep<g ref="char:EOLhyphen"/>table to the ſober part of the <hi>Nation.</hi>
+                  </p>
+                  <p>Then be told me he had a particular Kindneſs for me, and that I ſhould have the publiſhing of it, by which he was ſure I might gain no leſ then <hi>100 l.</hi> I returned him thanks for his Kindneſs, and told him I was not as quainted in things of that Nature, but that it was more fit for ſome Bookſeller to deal in, and that it would require a Disburſ<g ref="char:EOLhyphen"/>ment of a conſiderable Summ of Money, which I was loth to venture. He inſtantly replied, that though I was ig<g ref="char:EOLhyphen"/>norant in the buſineſs of Printing, yet he underſtood it well, and had printed ſeveral things, but now his Buſineſs com<g ref="char:EOLhyphen"/>ing on ſo faſt, he had no time to follow it himſelf, but (if I pleaſed) would wholly imploy me in it, and would disburſe the Money for Printing and Paper, but leave the Pro<g ref="char:EOLhyphen"/>fit intirely to me. I muſt confeſs theſe Offers ſeem'd very fair, I could not handſomly refuſe ſuch Kindneſs. So the Bu<g ref="char:EOLhyphen"/>ſineſs was concluded, and I every Day expected this Ela<g ref="char:EOLhyphen"/>borate Work for the Preſs. I ſaw him no more for eight Dayes together (at which I much wondred) but one Eve<g ref="char:EOLhyphen"/>ning at Grays-Inn I met him in a moſt heavy and diſcon<g ref="char:EOLhyphen"/>ſolate Condition: after I had preſt him to diſcourſe the Cau<g ref="char:EOLhyphen"/>ſes of his Grief, he told me his Sorrows were unexpreſſible, that his dear Brother that was formerly gone to <hi>Virginia</hi> he heard was kill'd by the <hi>Anabaptiſts;</hi> and then in a
+<pb n="10" facs="tcp:47469:6"/>great Paſſion he flung me three Letters, and had me read them; He ſaid he was reſolved to immortalize the Fact, and let it ſtand for ever as an Eternal Memorial againſt that Party. I was much troubled at the ſad Fate of his Brother, and ſo we parted. Some three Dayes after we met again, and then he ſhewed me the Copy of this Pamphlet, and told me be came juſt then from <hi>Lambeth,</hi> and that Doctor <hi>Parker</hi> had Licenſed it, for <hi>(ſaid he)</hi> I ſhewed Doctor <hi>Par<g ref="char:EOLhyphen"/>ker</hi> the three Letters, and could not forbear Weeping. Could you your ſelf have doubted of the reality of the buſineſs, if you had ſeen the Licenſe to it, his Tears and paſſionate expreſ<g ref="char:EOLhyphen"/>ſions, and alſo the three Letters? So at laſt I condeſcended to do it. The next day I went to Mr. <hi>Darby,</hi> and deſired him to print it; he took a veiw of the Copy, and ſaid he was not ſatisfied of the truth of it: But he would recommend me to a Cavalier Printer (as he expreſſed it) in <hi>Jewen-Street,</hi> who would readily perform the buſineſs. I deferred the pub<g ref="char:EOLhyphen"/>liſhing for ſeven or eight dayes, expecting to hear ſome Objection againſt it, but meeting not with any, I publiſhed it. Mr. <hi>Baxter</hi> conſtantly met me every day, and always urged the expedite and ſudden publication of the Narrative. I told him it was coming forth. He told me I ſhould command what money I deſired, for this and ſeveral other Books he had to come forth. I replied, that none was wanting yet, but when it was printed, the Printer was to be paid. Upon <hi>May 15</hi> I ſhewed him a proof-ſheet; he ſaid he was glad the buſineſs was ſo forward, he would go to the Goldſmith to Morrow; for, ſaid he, that will be ſoon enough for the Printer; But in the mean time, ſayes he, pray let me have <hi>4</hi> or <hi>5</hi> Guineys till to Morrow. I told him I had not ſo much about me, but what I had he ſhould have: So I let him have <hi>40</hi> s. So we parted. The next Day I expected him, but he came
+<pb n="11" facs="tcp:47469:6"/>no more, neither have I ever ſeen or heard from him ſince.</p>
+                  <p>Formerly when I asked him concerning his Lodging; he ſaid he lived in Fen-Church-ſtreet, but he was ſeldom at home, and it was impoſſible for me to meet with him: He ſaid he was an Atturney, and had good imployment that way. Thus has this Fellow put me upon a buſineſs, and now unworthily deſerted me. And now I begin too late to per<g ref="char:EOLhyphen"/>ceive him either to be a Cheat, or to be groſly cheated and gull'd with falſe Letters; For he ſeveral times ſaid he had not heard of his Brother ſince his Departure out of England till now. If I can do any further Service in the Matter, I ſhall be very ready and willing, for unleſs <hi>Baxter</hi> appears in his own Defence, and pay me the Mony I lent him, I ſhall certainly conclude him a Cheat.</p>
+                  <p>As for my Friend the Doctor, he was altogether uncon<g ref="char:EOLhyphen"/>cerned in the matter, and did only recommend me to a Printer at my Requeſt. All this that I have writ, I will avouch to be moſt true, and if you pleaſe to print it, I will ſtand to it, and juſtify it to be the naked Truth of the Buſineſs.</p>
+                  <closer>
+                     <dateline>
+                        <date>May <hi>20 1673.</hi>
+                        </date>
+                     </dateline>
+                     <signed>Your real Friend, <hi>Laurance Savill.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>An addreſs being made to the Council-Board; they, upon the Examination of the buſineſs, finds it <hi>Falſe</hi> and <hi>Fictitious,</hi> and accordingly ordered the publiſhing the ſame in the <hi>Gazette,</hi> viz.</p>
+            <pb n="12" facs="tcp:47469:7"/>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <head>The Order of Council.</head>
+                        <p>VVHereas there is a Pamphlet lately publiſhed, Entituled <hi>Mr. Baxter Baptized in Blood,</hi> containing a horrible Murder committed by four <hi>A<g ref="char:EOLhyphen"/>nabaptiſts</hi> upon the Perſon of <hi>Mr. Joſiah Baxter,</hi> neer <hi>Boſton</hi> in <hi>New-England.</hi> The whole matter having been inquired into, and examined at the Council-Board, is found altogether Falſe and Fictitious.</p>
+                        <closer>
+                           <signed>Edw. Walker.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>The Licenſer being alſo made acquainted with the whole matter, confeſſeth his miſtake, and too ſudden Credulity in the Licenſing ſo ſtrange a Pamphiet, as ap<g ref="char:EOLhyphen"/>peareth by the Teſtimonial hereto inſerted under his hand, <hi>viz.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="testimonial">
+                        <head>Dr. <hi>Parkers</hi> Teſtimonial.</head>
+                        <p>VVHereas there was a certain Pamphlet lately pub<g ref="char:EOLhyphen"/>liſhed under the Title of Mr. <hi>Baxter Baptized in Blood,</hi> containing a Narrative of a Murder committed on the Perſon of one <hi>Joſiah Baxter</hi> a Miniſter neer <hi>Boſton</hi> in <hi>New-England;</hi> which Narrative was allowed of, Licen<g ref="char:EOLhyphen"/>ſed,
+<pb n="13" facs="tcp:47469:7"/>and publickly expoſed to Sale. Theſe are to certifie that the Allowance and Licenſe thereof was obtained at the deſire and ſuggeſtion of one <hi>Lawrance Savil,</hi> who in Order to pro<g ref="char:EOLhyphen"/>cure the ſame, did really produce to the Licenſer Letters and Teſtimonials under the hands (as he pretended) of ſeveral Perſons in <hi>New-England,</hi> containing the particular Cir<g ref="char:EOLhyphen"/>cumſtances of the ſaid Relation, and aſſerting the truth of the ſame, as in the printed Copy is expreſſed. All which upon further inquiry and examination, the ſaid Licenſer hath ſince evidently found to be Fictitious and untrue, contrived and invented here in England, without any Warrant or Atteſta<g ref="char:EOLhyphen"/>tion from beyond the Seas. And ſo much he hath thought fit to publiſh, to the end that no Perſon may be abuſed or Impoſed upon by a Report, which, as he is now ſufficiently convinced, is both falſe and groundleſs.</p>
+                        <closer>
+                           <dateline>Read in Council, <date>30th <hi>May</hi> 1673.</date>
+                           </dateline>
+                           <signed>Sam. Parker.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>BY all this, and what more we hope yet to find out of this wicked and inhumane deſign, (as cruel in the intention, as the fact is in the fiction, and both equally deteſtible) our Integrity and Innocency will the more appear.</p>
+            <p>And although to be falſely accuſed, directly or indi<g ref="char:EOLhyphen"/>rectly, is a great exerciſe; yet to be cleared, and timely acquited we look at to be a good providence of God to us. For what have we done, or what are our Principles in Religion, that men ſhould think us any wayfitted or
+<pb n="14" facs="tcp:47469:8"/>diſpoſed to conceive, commit, approve, and not abhorr ſuch abominable crimes as theſe are? what is in our Practice of being <hi>Baptized</hi> in <hi>Water</hi> upon the profeſſi<g ref="char:EOLhyphen"/>on of Faith, that ſhould incline us to ſuch henious do<g ref="char:EOLhyphen"/>ings, above all others, in the thoughts of any ſenſible or rational men?</p>
+            <p>And although perhaps this Pamphlet hath wrought ſome prejudice in the minds of many men againſt us for a while, yet conſidering how ſeaſonably it hath plea<g ref="char:EOLhyphen"/>ſed God to detect and defeat the malicious and cruel deſign of this Diabolical Stratagem,</p>
+            <p>We have cauſe to acknowledge the goodneſs of God therein; and patiently to bear ſuch ſlandrous Reports, eſpecially remembring that what is now our Caſe, was the common Caſe of all Chriſtians heretofore, to be de<g ref="char:EOLhyphen"/>famed and evil ſpoken of without cauſe, though it hath not befallen many to be ſo clearly and fully acquitted.</p>
+            <p>We leave this Record to poſterity, as a ſignal example to future Ages, how injuriouſly and cruelly the Ma<g ref="char:EOLhyphen"/>lice of ſome men hath vented it ſelf againſt us and our Profeſſion, and how ſpeedily and opportunely the Goodneſs and favour of God hath appeared in our time<g ref="char:EOLhyphen"/>ly and ſucceſsful Vindication. When as that which this wicked Author hath boaſted to the perpetual Me<g ref="char:EOLhyphen"/>mory of the Fact, will be found to turn upon him to his eternal Shame.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb n="15" facs="tcp:47469:8"/>
+            <head>The Bookſellers Advertiſement to the Reader.</head>
+            <p>That ſince the deteſtible <hi>Pamphlet</hi> hath ſo deſigned, not only to reproch and villifie the Profeſſors of Baptiſm by this his villanous attempt, but the Profeſſion it ſelf alſo, as guilty of much Ignorance, Wickedneſs and Sacrilegious Impiety; He hereby ſignifies to the impartial Reader, that if he deſires Information into the Principle or Practice of that reproached Truth, he can furniſh him with moſt of the judicious Treatiſes written upon that Subject, and amongſt them of moſt Note,</p>
+            <list>
+               <item>The learned Treatiſes of Mr. <hi>John Tombes.</hi>
+               </item>
+               <item>The Works of Mr. <hi>Samuel Fiſher,</hi> in Folio.</item>
+               <item>A judicious Piece, by <hi>Henry Lawrance,</hi> 
+                  <abbr>Eſq</abbr>
+               </item>
+               <item>And a Treatiſe of <hi>Baptiſm,</hi> by <hi>H. D.</hi> (lately come forth) wherein that of <hi>Belie<g ref="char:EOLhyphen"/>vers</hi> and that of <hi>Infants</hi> is examined by the Scriptures. With the Hiſtory of both out of Antiquity.</item>
+            </list>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:47469:9"/>
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>Sam. Parker.</signed>
+               <dateline>
+                  <date>
+                     <hi>June</hi> 5. 1673.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:47469:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
